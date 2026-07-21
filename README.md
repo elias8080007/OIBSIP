@@ -6,27 +6,22 @@ Data Analytics internship projects completed as part of the **Oasis Infobyte Int
 
 - **Name:** Elias Ibrahim Elias
 - **Track:** Data Analytics
-- **Internship Mode:** Remote
 - **Organization:** Oasis Infobyte
+- **Internship Mode:** Remote
 
-## Projects
+## Completed Projects
 
 ### Task 1 — Exploratory Data Analysis on Retail Sales Data
 
-This project performs exploratory data analysis on a retail sales dataset to identify sales patterns, customer behaviour, product performance, and actionable business insights.
+Exploratory analysis of 50,000 retail transactions to identify sales trends, customer behaviour, product performance, and actionable business insights.
 
-**Main tools:** Python, pandas, matplotlib, seaborn and Google Colab.
+**Tools:** Python, pandas, matplotlib, seaborn and Google Colab.
 
 [View Task 1](./DataAnalytics-L1-EDARetailSales/)
 
 ## Repository Structure
 
-Each project folder contains:
-
-- A Jupyter/Google Colab notebook
-- A project-specific README
-- Generated charts and screenshots
-- Project findings and business recommendations
+Each project folder contains its notebook, documentation, visual outputs, findings, and business recommendations.
 
 ## Author
 
